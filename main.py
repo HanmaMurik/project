@@ -47,17 +47,6 @@ def delete(message):
 
 
 
-bot.polling()
-
-
-
-
-
-
-
-
-
-
 
 
 
